@@ -1,0 +1,24 @@
+Trident Ctf 2018                                                             Total Time : 2 hours
+-------------------------------------------------------------------------------------------------
+
+Target Website : http://somewhat.com ( will be given on venue )
+
+Challenge 1 : Hack the websites database and get access to the Admin panel.           [ 20 marks ]
+
+Challenge 2 : Send a friendly pop-up (i.e "TridentCtf") on homepage of that website.  [ 20 marks ]
+
+Challenge 3 : Make a report how you did it.                                           [ 10 marks ]
+
+--------------------------------------------------------------------------------------------------
+Total :                                                                               [ 50 Marks ]
+
+what you need :- 
+
+1. A desktop /laptop                  [will be provided]
+2. Active Internet connection.        [will be provided]
+3. Encryption / decryption techniques.
+4. A brain.                           [Bring it with you]
+
+Hints:-
+1. No ninja technique is required.
+2. Try Harder.
