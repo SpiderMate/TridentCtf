@@ -1,7 +1,7 @@
 Trident Ctf 2018                                                             Total Time : 2 hours
 -------------------------------------------------------------------------------------------------
 
-Target Website : http://somewhat.com ( will be given on venue )
+Target Website : http://www.jessoreboard.gov.bd
 
 Challenge 1 : Hack the websites database and get access to the Admin panel.           [ 20 marks ]
 
@@ -22,3 +22,5 @@ what you need :-
 Hints:-
 1. No ninja technique is required.
 2. Try Harder.
+
+
